@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="df257698-8802-4839-a078-44e05357e4eb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio1/CalculoDistancia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio1/LitrosGastos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio2/Tabuada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio2/Tabuada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio3/Conversor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio3/Conversor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
@@ -86,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663807946289</updated>
-      <workItem from="1663807948341" duration="1902000" />
+      <workItem from="1663807948341" duration="2589000" />
     </task>
     <task id="LOCAL-00001" summary="Realizado exercício 1">
       <created>1663809172049</created>
@@ -102,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663809251843</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Realizado exercício 2">
+      <created>1663809864191</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663809864191</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Realizado exercício 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Realizado exercício 1" />
+    <MESSAGE value="Realizado exercício 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Realizado exercício 2" />
   </component>
 </project>
