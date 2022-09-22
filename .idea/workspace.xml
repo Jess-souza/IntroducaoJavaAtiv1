@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df257698-8802-4839-a078-44e05357e4eb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio3/Conversor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio3/Conversor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio4/ConversorMoeda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio4/ConversorMoeda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663807946289</updated>
-      <workItem from="1663807948341" duration="2589000" />
+      <workItem from="1663807948341" duration="2995000" />
     </task>
     <task id="LOCAL-00001" summary="Realizado exercício 1">
       <created>1663809172049</created>
@@ -107,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663809864191</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Realizado exercício 3">
+      <created>1663810608600</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663810608600</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Realizado exercício 1" />
     <MESSAGE value="Realizado exercício 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Realizado exercício 2" />
+    <MESSAGE value="Realizado exercício 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Realizado exercício 3" />
   </component>
 </project>
