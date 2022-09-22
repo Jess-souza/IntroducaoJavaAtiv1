@@ -1,6 +1,6 @@
 package exercicio1;
 
-public class CalculoDistancia {
+public class LitrosGastos {
     public static void main(String[] args) {
         int tempo = 4;
         float velocidade = 80;
